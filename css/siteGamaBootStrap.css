@@ -1,0 +1,99 @@
+html{
+    font-family: Raleway,sans-serif;
+}
+
+.entrar{
+    font-family: Raleway,sans-serif;
+    margin-right: 460px;
+    background-color:#68de5a;
+    color: rgba(4, 8, 2, 0.87);
+    border: 1px solid #68de5a;
+    margin: 12px 2px 12px 66px;
+    padding: 8px 18px;
+    border-radius: 8px;
+    background-color: #68de5a;
+    font-weight: 700;
+    background-clip: padding-box;
+    
+}.entrar:hover {
+        background-color: rgb(135, 20, 202);
+        color:white;
+}.dropdown-menu{
+    align-content: flex-end;
+}.tit{
+    
+    font-style:inherit;
+}.navbar-toggler:hover {
+    background-color: rgb(135, 20, 202);
+    color:white;
+}.devWeb {
+    background-color: rgb(131, 48, 226);
+    color:white;
+    margin-bottom: 10%;
+    font-size: 100%;
+    width: 30%;
+    height: 10%;
+    border: 1px solid rgb(131, 48, 226);
+    margin: 12px 2px 12px 66px;
+    padding: 8px 18px;
+    border-radius: 8px;
+    background-color: rgb(131, 48, 226);
+    font-weight: 700;
+    background-clip: padding-box;
+}.productD {
+    background-color: rgb(43, 211, 66);
+    color:rgb(0, 0, 0);
+    margin: 0 auto;
+    font-size: 100%;
+    width: 30%;
+    height: 10%;
+    border: 1px solid rgb(43, 211, 66);
+    margin: 12px 2px 12px 66px;
+    padding: 8px 18px;
+    border-radius: 8px;
+    background-color: rgb(43, 211, 66);
+    font-weight: 700;
+    background-clip: padding-box;
+}.souEmpresa{
+    background-color: rgb(43, 211, 66);
+    color:rgb(0, 0, 0);
+    margin: 0 auto;
+    font-size: 35%;
+    width: 30%;
+    height: 10%;
+    border: 1px solid rgb(43, 211, 66);
+    margin: 12px 2px 12px 66px;
+    padding: 8px 18px;
+    border-radius: 8px;
+    background-color: rgb(43, 211, 66);
+    font-weight: 700;
+    background-clip: padding-box;
+
+}.souAluno{
+    background-color: rgb(43, 211, 66);
+    color:rgb(0, 0, 0);
+    margin: 0 auto;
+    font-size: 35%;
+    width: 35%;
+    height: 10%; 
+    border: 1px solid rgb(43, 211, 66);
+    margin: 12px 2px 12px 66px;
+    padding: 8px 18px;
+    border-radius: 8px;
+    background-color: rgb(43, 211, 66);
+    font-weight: 700;
+    background-clip: padding-box;
+}.souAluno:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+}.souEmpresa:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+} .devWeb:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+}.productD:hover{
+    transform: scale(1.1);
+    transition: all 0.5s;
+}
+
